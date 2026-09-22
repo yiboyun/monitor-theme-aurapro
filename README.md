@@ -2,6 +2,8 @@
 
 AuraPro 是为[极简探针 monitor](https://github.com/monitor-probe/monitor)开发的高密度状态页主题，基于官方 [`monitor-theme-default`](https://github.com/monitor-probe/monitor-theme-default) 二次开发。
 
+![AuraPro 主题预览](./preview.png)
+
 ## 特性
 
 - Lumina 风格的浅色极简界面，同时保留深色模式
